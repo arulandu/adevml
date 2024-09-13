@@ -1,0 +1,4 @@
+(executable
+ (public_name adevml)
+ (name main)
+ (libraries adevml))

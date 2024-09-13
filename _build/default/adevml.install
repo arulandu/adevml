@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/adevml/META"
+  "_build/install/default/lib/adevml/dune-package"
+  "_build/install/default/lib/adevml/opam"
+]
+bin: [
+  "_build/install/default/bin/adevml"
+]

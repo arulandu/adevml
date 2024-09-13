@@ -1,0 +1,23 @@
+# dune exec adevml
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/arulandu/.cache/dune/db
+# Workspace root: /Users/arulandu/main/research/amin/adev/adevml
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/arulandu/main/research/amin/adev/adevml/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/arulandu/.opam/adev/bin/ocamlc.opt -config > /var/folders/fg/n7d57ft153bf46npr6w6jjxr0000gn/T/dune_ab9679_output
